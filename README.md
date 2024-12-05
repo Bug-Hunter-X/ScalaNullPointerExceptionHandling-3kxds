@@ -1,0 +1,1 @@
+This repository contains a simple Scala program demonstrating a common NullPointerException. The `bug.scala` file shows the buggy code, while `bugSolution.scala` provides a corrected version.
